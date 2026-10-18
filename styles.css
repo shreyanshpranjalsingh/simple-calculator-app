@@ -1,0 +1,23 @@
+.calculator-container{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.calculator{
+    height: 180px;
+    width: 300px;
+    border: 2px solid red;
+}
+.cal-buttons{
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cal-buttons:hover{
+    background-color: rgb(199, 199, 70);
+}
